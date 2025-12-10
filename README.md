@@ -16,7 +16,7 @@
 
 ----
 
-I am a Computer Engineering student dedicated to building high-performance systems in **C++** and **Python**. My expertise lies in **AI/ML, Computer Vision, Deep Learning, and Edge AI**.
+I am a Computer Engineering dedicated to building high-performance systems in **C++** and **Python**. My expertise lies in **AI/ML, Computer Vision, Deep Learning, and Edge AI**.
 I focus on transforming complex, real-world problems into clean, efficient, and production-ready solutions.
 
 <picture>
